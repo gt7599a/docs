@@ -101,6 +101,12 @@ Options
 
     Listen address for status service (blank to disable) (default ":22070").
 
+Latest Builds / Downloads
+-------------------------
+
+The latest Builds are availble here (https://build.syncthing.net/job/strelaysrv/lastSuccessfulBuild/artifact/) including Windows, OSx, and various *nix builds.  Strelaysrv is not included in the default distribution.
+
+Follow the normal installation process for you're OS.
 
 Setting Up
 ----------
